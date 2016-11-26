@@ -35,6 +35,6 @@ Install .NET Core:
 
 Clone this repo and run build or run scripts:
 
-    ./run
+    ./run.sh
 
 
