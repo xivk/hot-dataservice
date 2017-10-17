@@ -44,6 +44,13 @@ namespace hotdataservice.Controllers
 
                 var target = new XmlOsmStreamTarget(resultStream);
                 target.ExtraRootAttributes.Add(new System.Tuple<string, string>("upload", "never"));
+                target.Bounds = new OsmSharp.API.Bounds()
+                {
+                    MaxLatitude = tile.Top,
+                    MaxLongitude = tile.Right,
+                    MinLatitude = tile.Bottom,
+                    MinLongitude = tile.Left
+                };
                 target.RegisterSource(filter);
                 target.Pull();
 
