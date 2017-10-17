@@ -42,5 +42,4 @@ packages/*
 *.TMP
 
 *.routerdb
-*.osm
 *.osm.pbf

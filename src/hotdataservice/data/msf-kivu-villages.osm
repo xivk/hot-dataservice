@@ -1,0 +1,2727 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-32942' lat='-4.103313333' lon='29.09571333'>
+    <tag k='households' v='627' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aebaz 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3759' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32943' lat='-4.091946667' lon='29.09643167'>
+    <tag k='alt_name' v='Mkemeke' />
+    <tag k='households' v='572' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwemezi 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='4407' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32944' lat='-4.109348333' lon='29.09390167'>
+    <tag k='alt_name' v='Matata' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Abdala mauridi' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32945' lat='-4.105436667' lon='29.09771'>
+    <tag k='alt_name' v='Abongolo' />
+    <tag k='households' v='573' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aebaz 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5135' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32946' lat='-4.10239' lon='29.099145'>
+    <tag k='alt_name' v='Abongolo' />
+    <tag k='households' v='3500' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aebaz 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5470' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32947' lat='-4.09964' lon='29.09794667'>
+    <tag k='alt_name' v='Mwemezi 2' />
+    <tag k='households' v='1220' />
+    <tag k='is_in:health_area' v='Baraka' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwemezi 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='4037' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32948' lat='-4.008181667' lon='28.98704667'>
+    <tag k='households' v='163' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sebasaza' />
+    <tag k='place' v='village' />
+    <tag k='population' v='978' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32949' lat='-4.027558333' lon='28.98639'>
+    <tag k='households' v='164' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bikirikiri 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='982' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32950' lat='-4.028891667' lon='28.99203167'>
+    <tag k='households' v='165' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bikirikiri 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='989' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32951' lat='-4.029375' lon='28.99783667'>
+    <tag k='households' v='117' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bikirikiri 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='702' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32952' lat='-4.019446667' lon='29.005015'>
+    <tag k='households' v='150' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bijada' />
+    <tag k='place' v='village' />
+    <tag k='population' v='682' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32953' lat='-4.013385' lon='29.01233667'>
+    <tag k='households' v='150' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kisombe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='896' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32954' lat='-3.99054' lon='29.02018'>
+    <tag k='households' v='130' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Magaja' />
+    <tag k='place' v='village' />
+    <tag k='population' v='776' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32955' lat='-4.01781' lon='29.02291833'>
+    <tag k='alt_name' v='Matare' />
+    <tag k='households' v='217' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bibogobogo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1300' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32956' lat='-4.072958333' lon='29.025635'>
+    <tag k='households' v='106' />
+    <tag k='is_in:health_area' v='Bibogobogo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tujenge' />
+    <tag k='place' v='village' />
+    <tag k='population' v='631' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32957' lat='-4.497955' lon='29.19121333'>
+    <tag k='alt_name' v='Karamba' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mulolo' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32958' lat='-4.51556' lon='29.20076167'>
+    <tag k='alt_name' v='Lukuazi' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lukuashi' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32959' lat='-4.520573333' lon='29.20732167'>
+    <tag k='households' v='403' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Karamba' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32960' lat='-4.513588333' lon='29.21079667'>
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasabuwa' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32961' lat='-4.490931667' lon='29.213785'>
+    <tag k='alt_name' v='Atete' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katete' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32962' lat='-4.466521667' lon='29.208755'>
+    <tag k='alt_name' v='Kirewani' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Buma2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32963' lat='-4.45691' lon='29.20629'>
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katohi1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32964' lat='-4.452045' lon='29.2057'>
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katohi2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32965' lat='-4.440866667' lon='29.20430333'>
+    <tag k='households' v='200' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwanzalulu 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32966' lat='-4.424055' lon='29.20531'>
+    <tag k='households' v='300' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwanzalulu 2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32967' lat='-4.395965' lon='29.20813333'>
+    <tag k='households' v='200' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Hona' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2200' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32968' lat='-4.410338333' lon='29.20784667'>
+    <tag k='alt_name' v='Kariako' />
+    <tag k='households' v='131' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mikelenge' />
+    <tag k='place' v='village' />
+    <tag k='population' v='800' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32969' lat='-4.47646' lon='29.21267667'>
+    <tag k='alt_name' v='Libia' />
+    <tag k='households' v='87' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Buma1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32970' lat='-4.491403333' lon='29.21418833'>
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katete' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32971' lat='-4.521581667' lon='29.15907167'>
+    <tag k='households' v='12' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Luute' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32972' lat='-4.501781667' lon='29.1594'>
+    <tag k='alt_name' v='Mahongolo' />
+    <tag k='households' v='56' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nanywema' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32973' lat='-4.492728333' lon='29.16353333'>
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Cité kibanga' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32974' lat='-4.488538333' lon='29.16859667'>
+    <tag k='households' v='163' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kibanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='394' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32975' lat='-4.477656667' lon='29.18353'>
+    <tag k='households' v='25' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kahamba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='110' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32976' lat='-4.468758333' lon='29.17832667'>
+    <tag k='alt_name' v='Kazaroho' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Edeni' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32977' lat='-4.449318333' lon='29.16736667'>
+    <tag k='alt_name' v='Kazaroho' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwandakano/kazaroho' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32978' lat='-4.529508333' lon='29.19419167'>
+    <tag k='alt_name' v='Karamba' />
+    <tag k='is_in:health_area' v='Buma' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kilumu' />
+    <tag k='note' v='On a pas accosté, à cause de l&apos;insécurité. nous sommes dans le lac Tanganyika.' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32979' lat='-4.303981667' lon='28.82125333'>
+    <tag k='households' v='108' />
+    <tag k='is_in:health_area' v='Bwala' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bwala' />
+    <tag k='place' v='village' />
+    <tag k='population' v='525' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32980' lat='-4.331558333' lon='28.81576333'>
+    <tag k='alt_name' v='Lukumba, Mwamkanga' />
+    <tag k='households' v='385' />
+    <tag k='is_in:health_area' v='Bwala' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ibindi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='896' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32981' lat='-4.32003' lon='28.818255'>
+    <tag k='alt_name' v='Bondo ville' />
+    <tag k='households' v='110' />
+    <tag k='is_in:health_area' v='Bwala' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Matelo,Lukunga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='401' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32982' lat='-4.092353333' lon='29.25901'>
+    <tag k='households' v='300' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mizimu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2501' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32983' lat='-4.093425' lon='29.25935'>
+    <tag k='households' v='160' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KALONGWE' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2008' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32984' lat='-4.137496667' lon='29.26237333'>
+    <tag k='households' v='14' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='BITOBOLO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='45' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32985' lat='-4.152471667' lon='29.25872333'>
+    <tag k='households' v='85' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='MKENDO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='497' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32986' lat='-4.189676667' lon='29.25130833'>
+    <tag k='households' v='102' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='LUBOMO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='700' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32987' lat='-4.109871667' lon='29.261405'>
+    <tag k='households' v='400' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Dine' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2555' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32988' lat='-4.093898333' lon='29.258165'>
+    <tag k='alt_name' v='Kirongwe(mwasabi)' />
+    <tag k='households' v='10' />
+    <tag k='is_in:health_area' v='Dine' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='MWIJOMBO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='30' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32989' lat='-4.090971667' lon='29.09586833'>
+    <tag k='alt_name' v='Cité lemba' />
+    <tag k='households' v='224' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Cité Belge' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1341' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32990' lat='-4.300438333' lon='28.94301667'>
+    <tag k='households' v='380' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Centre commercial' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2282' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32991' lat='-4.297506667' lon='28.938715'>
+    <tag k='households' v='193' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Majengo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1160' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32992' lat='-4.313513333' lon='28.94682667'>
+    <tag k='households' v='150' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tribune' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1050' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32993' lat='-4.301136667' lon='28.94083'>
+    <tag k='households' v='124' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Vodacom' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1200' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32994' lat='-4.291875' lon='28.94137833'>
+    <tag k='households' v='88' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Asongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='105' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32995' lat='-4.293488333' lon='28.94473'>
+    <tag k='alt_name' v='Balinda' />
+    <tag k='households' v='123' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sous marché kalembelembe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1035' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32996' lat='-4.287455' lon='28.93685667'>
+    <tag k='households' v='1895' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Balolwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5220' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32997' lat='-4.31495' lon='28.94895667'>
+    <tag k='households' v='1303' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Misufi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3055' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32998' lat='-4.30951' lon='28.937695'>
+    <tag k='households' v='160' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Cité Abunda' />
+    <tag k='place' v='village' />
+    <tag k='population' v='961' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-32999' lat='-4.312108333' lon='28.94236333'>
+    <tag k='alt_name' v='Elembo' />
+    <tag k='households' v='204' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Cité Kitongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1639' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33000' lat='-4.306828333' lon='28.94367167'>
+    <tag k='alt_name' v='Pitopito' />
+    <tag k='households' v='189' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sous Hôpital 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1134' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33001' lat='-4.326371667' lon='28.951095'>
+    <tag k='households' v='175' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakunga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1049' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33002' lat='-4.318498333' lon='28.956745'>
+    <tag k='households' v='371' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Avenue Tanganyika' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2227' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33003' lat='-4.250893333' lon='28.98819667'>
+    <tag k='households' v='108' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalongwe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='708' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33004' lat='-4.267408333' lon='28.97967667'>
+    <tag k='households' v='69' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakela 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='489' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33005' lat='-4.290025' lon='28.95708667'>
+    <tag k='households' v='69' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kikongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='415' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33006' lat='-4.299153333' lon='28.944725'>
+    <tag k='households' v='320' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sayuni' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1345' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33007' lat='-4.302698333' lon='28.945175'>
+    <tag k='households' v='273' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Rtnc' />
+    <tag k='place' v='village' />
+    <tag k='population' v='579' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33008' lat='-4.384421667' lon='28.92352833'>
+    <tag k='households' v='200' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Namisha' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1009' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33009' lat='-4.2942' lon='28.94248167'>
+    <tag k='households' v='106' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Paroisse' />
+    <tag k='place' v='village' />
+    <tag k='population' v='569' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33010' lat='-4.30314' lon='28.94198833'>
+    <tag k='households' v='200' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mulenge' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1171' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33011' lat='-4.301108333' lon='28.94247833'>
+    <tag k='households' v='221' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sous Hôpital 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1325' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33012' lat='-4.33272' lon='28.94869333'>
+    <tag k='households' v='69' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lekesha' />
+    <tag k='place' v='village' />
+    <tag k='population' v='415' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33013' lat='-4.333135' lon='28.946565'>
+    <tag k='households' v='80' />
+    <tag k='is_in:health_area' v='Fizi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mahombwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='447' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33014' lat='-4.104208333' lon='28.98201167'>
+    <tag k='households' v='258' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kafulo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1548' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33015' lat='-4.134788333' lon='28.99507333'>
+    <tag k='households' v='88' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mshilwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='526' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33016' lat='-4.097515' lon='29.00539333'>
+    <tag k='alt_name' v='Lue' />
+    <tag k='households' v='31' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Asanu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='185' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33017' lat='-4.119136667' lon='28.96811667'>
+    <tag k='households' v='46' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ange' />
+    <tag k='place' v='village' />
+    <tag k='population' v='276' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33018' lat='-4.097911667' lon='28.94076333'>
+    <tag k='households' v='129' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Alongwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='773' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33019' lat='-4.079898333' lon='28.95388667'>
+    <tag k='households' v='114' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Alenga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='685' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33020' lat='-4.061125' lon='28.97829333'>
+    <tag k='households' v='435' />
+    <tag k='is_in:health_area' v='Kafulo' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Alele' />
+    <tag k='place' v='village' />
+    <tag k='population' v='73' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33021' lat='-4.038731667' lon='29.08891833'>
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Abela' />
+    <tag k='place' v='village' />
+    <tag k='population' v='6350' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33022' lat='-4.057251667' lon='29.08746667'>
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalundja 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33023' lat='-4.056566667' lon='29.08735167'>
+    <tag k='alt_name' v='Mwamlenda' />
+    <tag k='households' v='39' />
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalundja 4' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33024' lat='-4.061383333' lon='29.09034333'>
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalundja 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33025' lat='-4.065378333' lon='29.087935'>
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalundja 2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33026' lat='-4.066065' lon='29.08872667'>
+    <tag k='alt_name' v='Na Malombo' />
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalundja 3' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33027' lat='-4.074138333' lon='29.08870333'>
+    <tag k='households' v='85' />
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Luulu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='378' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33028' lat='-4.083338333' lon='29.08945833'>
+    <tag k='is_in:health_area' v='Kalundja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Matongo' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33029' lat='-4.20315' lon='28.916925'>
+    <tag k='households' v='132' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Itota' />
+    <tag k='place' v='village' />
+    <tag k='population' v='927' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33030' lat='-4.217568333' lon='28.91707167'>
+    <tag k='households' v='44' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kitibili' />
+    <tag k='place' v='village' />
+    <tag k='population' v='305' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33031' lat='-4.237068333' lon='28.92214'>
+    <tag k='households' v='1932' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kananda' />
+    <tag k='place' v='village' />
+    <tag k='population' v='4827' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33032' lat='-4.254533333' lon='28.92484667'>
+    <tag k='households' v='126' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tukulu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='45' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33033' lat='-4.272471667' lon='28.92961833'>
+    <tag k='households' v='22' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kundu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='147' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33034' lat='-4.22648' lon='28.955115'>
+    <tag k='households' v='75' />
+    <tag k='is_in:health_area' v='Kananda' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakungu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='523' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33035' lat='-4.008033333' lon='29.09656833'>
+    <tag k='alt_name' v='Elongwe' />
+    <tag k='is_in:health_area' v='Kandali' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kandali' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5619' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33036' lat='-4.025068333' lon='29.09111'>
+    <tag k='households' v='420' />
+    <tag k='is_in:health_area' v='Kandali' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kikwena' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1860' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33037' lat='-4.032376667' lon='29.090085'>
+    <tag k='households' v='144' />
+    <tag k='is_in:health_area' v='Kandali' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mchimchi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1044' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33038' lat='-4.18854' lon='29.05587667'>
+    <tag k='alt_name' v='Lubekye' />
+    <tag k='households' v='415' />
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3525' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33039' lat='-4.186286667' lon='29.05897667'>
+    <tag k='alt_name' v='Atanga' />
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Okapi/Katanga 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1880' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33040' lat='-4.185546667' lon='29.05056833'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 5' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33041' lat='-4.189405' lon='29.04970167'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 6' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2324' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33042' lat='-4.197376667' lon='29.047415'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 7' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33043' lat='-4.193446667' lon='29.052245'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 4' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33044' lat='-4.191493333' lon='29.05489667'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katanga 3' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33045' lat='-4.1703' lon='29.06019167'>
+    <tag k='households' v='320' />
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mkangi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='428' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33046' lat='-4.161666667' lon='29.06601167'>
+    <tag k='is_in:health_area' v='Katanga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakomba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='730' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33047' lat='-4.314105' lon='29.15743833'>
+    <tag k='alt_name' v='Katenga,kakazi,kirini' />
+    <tag k='households' v='580' />
+    <tag k='is_in:health_area' v='Katenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katenga,kirini kakazi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2991' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33048' lat='-4.359931667' lon='29.15297167'>
+    <tag k='alt_name' v='Misha 2 ijombo' />
+    <tag k='households' v='233' />
+    <tag k='is_in:health_area' v='Katenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Misha 2 ijombo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='967' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33049' lat='-4.332733333' lon='29.15664667'>
+    <tag k='alt_name' v='Sombwe et Msombozi' />
+    <tag k='households' v='478' />
+    <tag k='is_in:health_area' v='Katenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sombwe et Msombozi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1823' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33050' lat='-4.546355' lon='29.15096833'>
+    <tag k='alt_name' v='Acimya' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kazimia' />
+    <tag k='place' v='village' />
+    <tag k='population' v='14432' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33051' lat='-4.562786667' lon='29.15089833'>
+    <tag k='alt_name' v='Ubashiuma' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Katondje' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33052' lat='-4.57323' lon='29.14047833'>
+    <tag k='alt_name' v='Aboko' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kabogo' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33053' lat='-4.596263333' lon='29.12262333'>
+    <tag k='alt_name' v='Abumbwe' />
+    <tag k='households' v='260' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kavumbwe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33054' lat='-4.605238333' lon='29.11395'>
+    <tag k='alt_name' v='Angana' />
+    <tag k='households' v='30' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lekya' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33055' lat='-4.615761667' lon='29.11337'>
+    <tag k='households' v='19' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lwata' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33056' lat='-4.619746667' lon='29.11094333'>
+    <tag k='households' v='21' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasesela 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33057' lat='-4.623415' lon='29.11092'>
+    <tag k='households' v='23' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasesela 2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33058' lat='-4.631453333' lon='29.10997667'>
+    <tag k='alt_name' v='Misato' />
+    <tag k='households' v='120' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kahela' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33059' lat='-4.648026667' lon='29.10858'>
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nguma' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33060' lat='-4.726321667' lon='29.10949667'>
+    <tag k='alt_name' v='Kichala' />
+    <tag k='households' v='47' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Echala' />
+    <tag k='place' v='village' />
+    <tag k='population' v='235' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33061' lat='-4.712151667' lon='29.11371'>
+    <tag k='alt_name' v='Kiringi' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Elenge' />
+    <tag k='note' v='Je n&apos;ai pas accosté à cause de la tempête.' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33062' lat='-4.70004' lon='29.12016333'>
+    <tag k='alt_name' v='Lusombe' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Losombe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33063' lat='-4.682166667' lon='29.113695'>
+    <tag k='alt_name' v='Kahanza' />
+    <tag k='households' v='43' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Esala(Akangya)' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33064' lat='-4.663718333' lon='29.11206833'>
+    <tag k='alt_name' v='Kahoma' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Akoma' />
+    <tag k='place' v='village' />
+    <tag k='population' v='250' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33065' lat='-4.626593333' lon='29.11844167'>
+    <tag k='alt_name' v='Kalilenge' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Alelenge' />
+    <tag k='note' v='Je n&apos;ai pas pû arrivé au village, pour raison de la sécurité.' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33066' lat='-4.542488333' lon='29.16015667'>
+    <tag k='alt_name' v='Eleba' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kirewa' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33067' lat='-4.097593333' lon='28.87425167'>
+    <tag k='alt_name' v='Echula' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kichula' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5402' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33068' lat='-4.548066667' lon='29.154365'>
+    <tag k='alt_name' v='Kazimia centre' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Manjanja' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33069' lat='-4.553578333' lon='29.15187'>
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mukuyu' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33070' lat='-4.546243333' lon='29.15085'>
+    <tag k='alt_name' v='Brazza' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Cité More' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33071' lat='-4.546803333' lon='29.15769333'>
+    <tag k='alt_name' v='Baziba' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kirewa2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33072' lat='-4.542595' lon='29.150945'>
+    <tag k='alt_name' v='Brazza' />
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bwiya 2' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33073' lat='-4.529908333' lon='29.15441'>
+    <tag k='is_in:health_area' v='Kazimia' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bwiya 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33074' lat='-4.074438333' lon='28.88332667'>
+    <tag k='alt_name' v='Tu&apos;ula' />
+    <tag k='is_in:health_area' v='Kichula' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tu&apos;ula' />
+    <tag k='place' v='village' />
+    <tag k='population' v='120' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33075' lat='-4.080455' lon='28.88134667'>
+    <tag k='alt_name' v='Namtumbwa' />
+    <tag k='households' v='21' />
+    <tag k='is_in:health_area' v='Kichula' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Namtumbwa' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33076' lat='-4.08771' lon='28.87518333'>
+    <tag k='alt_name' v='Mlanga' />
+    <tag k='is_in:health_area' v='Kichula' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Milanga' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33077' lat='-4.11791' lon='28.87813833'>
+    <tag k='alt_name' v='Lumbe bibumbe' />
+    <tag k='is_in:health_area' v='Kichula' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lumbe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33078' lat='-4.095576667' lon='28.87158'>
+    <tag k='alt_name' v='Echula' />
+    <tag k='households' v='652' />
+    <tag k='is_in:health_area' v='Kichula' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kichula' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1900' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33079' lat='-4.485528333' lon='28.99129833'>
+    <tag k='households' v='210' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ekubo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='870' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33080' lat='-4.477618333' lon='28.99704333'>
+    <tag k='households' v='270' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Milanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1234' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33081' lat='-4.476406667' lon='29.001345'>
+    <tag k='households' v='245' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lekesha' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1075' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33082' lat='-4.470861667' lon='29.001065'>
+    <tag k='households' v='196' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kampulo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='948' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33083' lat='-4.428521667' lon='29.01783333'>
+    <tag k='households' v='40' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Yabula' />
+    <tag k='place' v='village' />
+    <tag k='population' v='128' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33084' lat='-4.386801667' lon='29.025265'>
+    <tag k='households' v='100' />
+    <tag k='is_in:health_area' v='Kikonde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasandjala 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='226' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33085' lat='-4.419143333' lon='28.7915'>
+    <tag k='alt_name' v='Atuulu' />
+    <tag k='households' v='50' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mkangya lukulu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='250' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33086' lat='-4.425836667' lon='28.788075'>
+    <tag k='households' v='130' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Alongwe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='180' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33087' lat='-4.447043333' lon='28.776965'>
+    <tag k='alt_name' v='Mutakuya' />
+    <tag k='households' v='23' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lusembe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='80' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33088' lat='-4.455938333' lon='28.77044'>
+    <tag k='households' v='61' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Chabula' />
+    <tag k='place' v='village' />
+    <tag k='population' v='350' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33089' lat='-4.458535' lon='28.76839'>
+    <tag k='alt_name' v='Bashi asunge' />
+    <tag k='households' v='11' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aule' />
+    <tag k='place' v='village' />
+    <tag k='population' v='73' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33090' lat='-4.465976667' lon='28.76419833'>
+    <tag k='alt_name' v='Eoma 1' />
+    <tag k='households' v='20' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Basipeta' />
+    <tag k='place' v='village' />
+    <tag k='population' v='60' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33091' lat='-4.470823333' lon='28.76156333'>
+    <tag k='alt_name' v='Eoma 2' />
+    <tag k='households' v='17' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bashiluchingu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='70' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33092' lat='-4.47397' lon='28.75929833'>
+    <tag k='households' v='12' />
+    <tag k='is_in:health_area' v='Kilicha' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Asolelo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='300' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33093' lat='-3.993263333' lon='28.87111167'>
+    <tag k='alt_name' v='M&apos;meta' />
+    <tag k='households' v='104' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='M&apos;meta' />
+    <tag k='place' v='village' />
+    <tag k='population' v='625' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33094' lat='-4.000801667' lon='28.87480833'>
+    <tag k='alt_name' v='Bashiekeci' />
+    <tag k='households' v='120' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Biuba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='721' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33095' lat='-4.022768333' lon='28.87923833'>
+    <tag k='alt_name' v='Bibombo' />
+    <tag k='households' v='79' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Afe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='472' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33096' lat='-4.06374' lon='28.88374833'>
+    <tag k='alt_name' v='Alumba' />
+    <tag k='households' v='105' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kichanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='631' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33097' lat='-4.011891667' lon='28.880805'>
+    <tag k='alt_name' v='Mtongacimu' />
+    <tag k='households' v='130' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lumanya' />
+    <tag k='place' v='village' />
+    <tag k='population' v='777' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33098' lat='-4.058491667' lon='28.88068333'>
+    <tag k='alt_name' v='Ituta' />
+    <tag k='households' v='86' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ituta' />
+    <tag k='place' v='village' />
+    <tag k='population' v='514' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33099' lat='-4.043493333' lon='28.88309667'>
+    <tag k='alt_name' v='Kakamba' />
+    <tag k='households' v='139' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='A&apos;amba' />
+    <tag k='note' v='La population de kakamba ll est un inclut dans la population de a&apos;amba .' />
+    <tag k='place' v='village' />
+    <tag k='population' v='833' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33100' lat='-4.068628333' lon='28.85330667'>
+    <tag k='alt_name' v='Itendelo' />
+    <tag k='households' v='109' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Itendelo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='659' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33101' lat='-4.043933333' lon='28.84999333'>
+    <tag k='alt_name' v='Kakamba' />
+    <tag k='households' v='139' />
+    <tag k='is_in:health_area' v='Lumanya' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakamba 2' />
+    <tag k='note' v='La population de kakamba ll est un inclut dans la population de a&apos;amba .' />
+    <tag k='place' v='village' />
+    <tag k='population' v='833' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33102' lat='-4.20223' lon='29.035875'>
+    <tag k='alt_name' v='Lulende' />
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Malinde 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33103' lat='-4.210238333' lon='29.04357667'>
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Malinde' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33104' lat='-4.239205' lon='29.04788167'>
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mulongwe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33105' lat='-4.257813333' lon='29.04231'>
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakalukulu' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33106' lat='-4.268728333' lon='29.04187667'>
+    <tag k='alt_name' v='Asee' />
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kaseke' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33107' lat='-4.283266667' lon='29.04206167'>
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sangye' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33108' lat='-4.278271667' lon='29.05558667'>
+    <tag k='households' v='280' />
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kotongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='924' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33109' lat='-4.235508333' lon='29.08181'>
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sikutumwa/ Kitete' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33110' lat='-4.22285' lon='28.99634'>
+    <tag k='households' v='120' />
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mkyengya' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1028' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33111' lat='-4.238736667' lon='29.09266833'>
+    <tag k='alt_name' v='Etete' />
+    <tag k='households' v='260' />
+    <tag k='is_in:health_area' v='Malinde' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kitete' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1049' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33112' lat='-4.138933333' lon='29.08722333'>
+    <tag k='alt_name' v='matongo' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwandiga 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='4304' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33113' lat='-4.141606667' lon='29.08671'>
+    <tag k='alt_name' v='mwioo' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lotengya mosi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2226' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33114' lat='-4.153415' lon='29.07142667'>
+    <tag k='alt_name' v='Bashi nyange' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kimanga' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33115' lat='-4.14597' lon='29.081775'>
+    <tag k='alt_name' v='Lwalala/ Akyungwe' />
+    <tag k='households' v='185' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwandiga 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='849' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33116' lat='-4.148218333' lon='29.08152667'>
+    <tag k='alt_name' v='Akywungwe' />
+    <tag k='households' v='175' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwandiga 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='205' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33117' lat='-4.151425' lon='29.07811333'>
+    <tag k='households' v='113' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mwandiga 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='297' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33118' lat='-4.125056667' lon='29.07775333'>
+    <tag k='alt_name' v='Mwambango' />
+    <tag k='households' v='230' />
+    <tag k='is_in:health_area' v='Mshimbakye' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mushimbakye 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2750' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33119' lat='-4.154621667' lon='28.88615167'>
+    <tag k='households' v='1500' />
+    <tag k='is_in:health_area' v='Mukera' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mukera 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='6600' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33120' lat='-4.131388333' lon='28.87499'>
+    <tag k='households' v='134' />
+    <tag k='is_in:health_area' v='Mukera' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Asonge' />
+    <tag k='note' v='Asonge:C&apos;est un Village qui est séparé mais géré par un seul chef du village.' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3670' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33121' lat='-4.168973333' lon='28.889405'>
+    <tag k='households' v='54' />
+    <tag k='is_in:health_area' v='Mukera' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lubule&apos;ya' />
+    <tag k='place' v='village' />
+    <tag k='population' v='350' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33122' lat='-4.168188333' lon='28.88704167'>
+    <tag k='alt_name' v='Bakantonye' />
+    <tag k='households' v='23' />
+    <tag k='is_in:health_area' v='Mukera' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mukera 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='360' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33123' lat='-4.110693333' lon='29.09076667'>
+    <tag k='is_in:health_area' v='Mwangaza' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalinga sud' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33124' lat='-4.114778333' lon='29.08747667'>
+    <tag k='is_in:health_area' v='Mwangaza' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kibonjwa 3' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33125' lat='-4.24466' lon='29.24047667'>
+    <tag k='households' v='310' />
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='LOBILO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5136' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33126' lat='-4.244646667' lon='29.240465'>
+    <tag k='households' v='36' />
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='LWAMBAMA' />
+    <tag k='place' v='village' />
+    <tag k='population' v='286' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33127' lat='-4.270113333' lon='29.23572333'>
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KALILA' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33128' lat='-4.285341667' lon='29.23182'>
+    <tag k='households' v='52' />
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KIHIMINO 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33129' lat='-4.291225' lon='29.22855833'>
+    <tag k='alt_name' v='Lubumbashi' />
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KIHIMINO 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3800' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33130' lat='-4.294348333' lon='29.22851167'>
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='MWAYENGA' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2015' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33131' lat='-4.29435' lon='29.22860667'>
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='MWIJOMBO' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1436' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33132' lat='-4.36702' lon='29.21851333'>
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KIVUNJI' />
+    <tag k='place' v='village' />
+    <tag k='population' v='536' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33133' lat='-4.345911667' lon='29.22093167'>
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='KANANGA' />
+    <tag k='place' v='village' />
+    <tag k='population' v='318' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33134' lat='-4.314258333' lon='29.22619'>
+    <tag k='alt_name' v='Misofi' />
+    <tag k='households' v='30' />
+    <tag k='is_in:health_area' v='Mwayenga' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='BWENGE' />
+    <tag k='place' v='village' />
+    <tag k='population' v='469' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33135' lat='-4.335481667' lon='29.10411667'>
+    <tag k='alt_name' v='Babungwe' />
+    <tag k='households' v='798' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nemba 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2247' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33136' lat='-4.368685' lon='29.102115'>
+    <tag k='alt_name' v='Kongolo' />
+    <tag k='households' v='135' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Yandalela' />
+    <tag k='place' v='village' />
+    <tag k='population' v='680' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33137' lat='-4.3971' lon='29.13402667'>
+    <tag k='households' v='256' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Makama' />
+    <tag k='note' v='C&apos;est le même chef qui gère le village MTE WA NGOMA.' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1216' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33138' lat='-4.381091667' lon='29.14102'>
+    <tag k='households' v='96' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bongela' />
+    <tag k='place' v='village' />
+    <tag k='population' v='399' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33139' lat='-4.375321667' lon='29.15185667'>
+    <tag k='households' v='142' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Misha 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='979' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33140' lat='-4.374411667' lon='29.12960667'>
+    <tag k='households' v='196' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ekyengya' />
+    <tag k='place' v='village' />
+    <tag k='population' v='657' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33141' lat='-4.35574' lon='29.09591333'>
+    <tag k='alt_name' v='Nemba 4' />
+    <tag k='households' v='162' />
+    <tag k='is_in:health_area' v='Nemba' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Majengo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='736' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33142' lat='-4.244061667' lon='29.174945'>
+    <tag k='alt_name' v='Kisokwe' />
+    <tag k='households' v='340' />
+    <tag k='is_in:health_area' v='Rubana' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kisokwe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33143' lat='-4.244038333' lon='29.17497'>
+    <tag k='alt_name' v='Kabanga' />
+    <tag k='households' v='185' />
+    <tag k='is_in:health_area' v='Rubana' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kabanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='636' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33144' lat='-4.243123333' lon='29.17571333'>
+    <tag k='alt_name' v='Ijombo Amani Rubana' />
+    <tag k='households' v='100' />
+    <tag k='is_in:health_area' v='Rubana' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ijombo Amani Rubana' />
+    <tag k='place' v='village' />
+    <tag k='population' v='200' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33145' lat='-4.24315' lon='29.17563'>
+    <tag k='alt_name' v='Rubana Kebero kitumba' />
+    <tag k='households' v='300' />
+    <tag k='is_in:health_area' v='Rubana' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Rubana,kebero,kitumba.' />
+    <tag k='place' v='village' />
+    <tag k='population' v='850' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33146' lat='-4.243538333' lon='29.17688167'>
+    <tag k='alt_name' v='Tchangwena' />
+    <tag k='households' v='175' />
+    <tag k='is_in:health_area' v='Rubana' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tchangwena' />
+    <tag k='place' v='village' />
+    <tag k='population' v='450' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33147' lat='-4.297781667' lon='29.03958333'>
+    <tag k='alt_name' v='Sangye' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sebele 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33148' lat='-4.309781667' lon='29.04072333'>
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sebele 2' />
+    <tag k='note' v='Ce chef prône deux villages, celui de Sebele 1 et 2.' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33149' lat='-4.312153333' lon='29.05938333'>
+    <tag k='households' v='200' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kianda' />
+    <tag k='place' v='village' />
+    <tag k='population' v='750' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33150' lat='-4.325598333' lon='28.98824333'>
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Atungu' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33151' lat='-4.329426667' lon='28.99957'>
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Buzimba' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33152' lat='-4.356725' lon='29.09096833'>
+    <tag k='households' v='75' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Milanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='350' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33153' lat='-4.335473333' lon='29.06733333'>
+    <tag k='alt_name' v='Mwita' />
+    <tag k='households' v='150' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasaka' />
+    <tag k='place' v='village' />
+    <tag k='population' v='600' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33154' lat='-4.366315' lon='29.03322333'>
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ateka' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33155' lat='-4.384773333' lon='29.02588833'>
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasandjala 1' />
+    <tag k='note' v='Ce chef assume la responsabilité de deux villages, celui de kasandjala 1 et ateka. Tous les points d&apos;intérêts que ce village uilitise se trouvent dans kasandjala 2, or ce village (kasandjala 2) est dans l&apos;aire de santé de Kikonde.' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33156' lat='-4.33556' lon='29.035515'>
+    <tag k='households' v='178' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mianda' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1072' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33157' lat='-4.315721667' lon='29.04153667'>
+    <tag k='households' v='900' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sebele 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='5000' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33158' lat='-4.335281667' lon='29.10002333'>
+    <tag k='alt_name' v='Kakombe' />
+    <tag k='households' v='70' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nemba 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33159' lat='-4.320198333' lon='29.04263333'>
+    <tag k='households' v='648' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sebele 4' />
+    <tag k='note' v='Le chef du village de ce village est celui de Sebele 3.' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3210' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33160' lat='-4.333211667' lon='29.09187'>
+    <tag k='alt_name' v='Bashikibanda' />
+    <tag k='households' v='350' />
+    <tag k='is_in:health_area' v='Sebele' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nemba 1' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33161' lat='-4.164638333' lon='28.93641833'>
+    <tag k='households' v='188' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Simbi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1127' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33162' lat='-4.163736667' lon='28.93806167'>
+    <tag k='households' v='174' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1041' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33163' lat='-4.139223333' lon='28.93467167'>
+    <tag k='households' v='141' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Lwende' />
+    <tag k='place' v='village' />
+    <tag k='population' v='845' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33164' lat='-4.161105' lon='28.94545333'>
+    <tag k='households' v='139' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Malekya' />
+    <tag k='place' v='village' />
+    <tag k='population' v='833' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33165' lat='-4.159248333' lon='28.94187667'>
+    <tag k='households' v='45' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bahanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='266' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33166' lat='-4.18842' lon='28.94303333'>
+    <tag k='households' v='99' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bukavu. Simbi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='594' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33167' lat='-4.206051667' lon='28.95767667'>
+    <tag k='households' v='74' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mkyobwe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='439' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33168' lat='-4.15547' lon='28.959575'>
+    <tag k='households' v='58' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Angakùlù' />
+    <tag k='place' v='village' />
+    <tag k='population' v='346' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33169' lat='-4.166421667' lon='28.93452833'>
+    <tag k='alt_name' v='Mahendeleyo' />
+    <tag k='households' v='115' />
+    <tag k='is_in:health_area' v='Simbi' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kotongo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='689' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33170' lat='-4.083525' lon='29.22728333'>
+    <tag k='alt_name' v='Manga' />
+    <tag k='households' v='130' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Manga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='380' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33171' lat='-4.095328333' lon='29.22160667'>
+    <tag k='alt_name' v='Mseke' />
+    <tag k='households' v='27' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mseke' />
+    <tag k='place' v='village' />
+    <tag k='population' v='160' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33172' lat='-4.104276667' lon='29.21685333'>
+    <tag k='alt_name' v='Tongwe' />
+    <tag k='households' v='67' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tongwe' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33173' lat='-4.11623' lon='29.21277333'>
+    <tag k='alt_name' v='Kizinga' />
+    <tag k='households' v='9' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kizinga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='43' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33174' lat='-4.090935' lon='29.09173333'>
+    <tag k='alt_name' v='Some,kifinga,kalole,kapara' />
+    <tag k='households' v='380' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Some,kalole,kifinga,kapara' />
+    <tag k='place' v='village' />
+    <tag k='population' v='994' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33175' lat='-4.091046667' lon='29.09189167'>
+    <tag k='alt_name' v='Karunga' />
+    <tag k='households' v='140' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Karunga' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33176' lat='-4.091015' lon='29.09183833'>
+    <tag k='alt_name' v='Kiriza' />
+    <tag k='households' v='170' />
+    <tag k='is_in:health_area' v='Some' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kiriza' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33177' lat='-4.874505' lon='29.10693167'>
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kisanu' />
+    <tag k='place' v='village' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33178' lat='-4.880003333' lon='29.1062'>
+    <tag k='households' v='230' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Sele' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1381' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33179' lat='-4.908418333' lon='29.10508167'>
+    <tag k='households' v='133' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kakone' />
+    <tag k='place' v='village' />
+    <tag k='population' v='800' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33180' lat='-4.91648' lon='29.10507667'>
+    <tag k='alt_name' v='Lubomba' />
+    <tag k='households' v='78' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Asa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='230' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33181' lat='-4.926835' lon='29.10825667'>
+    <tag k='households' v='57' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mkongwe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='351' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33182' lat='-4.955845' lon='29.11070667'>
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Echinga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='560' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33183' lat='-4.964126667' lon='29.11284667'>
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Aoma' />
+    <tag k='place' v='village' />
+    <tag k='population' v='720' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33184' lat='-4.968901667' lon='29.11264333'>
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bisembe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='160' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33185' lat='-4.975005' lon='29.113225'>
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kikungu 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='489' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33186' lat='-4.975546667' lon='29.113435'>
+    <tag k='alt_name' v='Ahela' />
+    <tag k='households' v='248' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kikungu 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1485' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33187' lat='-4.974375' lon='29.11360667'>
+    <tag k='households' v='192' />
+    <tag k='is_in:health_area' v='Talama' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kikungu 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1154' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33188' lat='-4.19507' lon='28.77674333'>
+    <tag k='households' v='350' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ikunda 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1633' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33189' lat='-4.20112' lon='28.77202167'>
+    <tag k='households' v='140' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ikunda 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='600' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33190' lat='-4.211043333' lon='28.75570167'>
+    <tag k='alt_name' v='Kibwindi' />
+    <tag k='households' v='400' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ikunda 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='700' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33191' lat='-4.211043333' lon='28.75570167'>
+    <tag k='alt_name' v='Kibwindi' />
+    <tag k='households' v='400' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Ikunda 3' />
+    <tag k='place' v='village' />
+    <tag k='population' v='700' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33192' lat='-4.172983333' lon='28.749185'>
+    <tag k='alt_name' v='Byengabyenga' />
+    <tag k='households' v='420' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mukalati' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2202' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33193' lat='-4.17471' lon='28.71794833'>
+    <tag k='households' v='398' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kijombo' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33194' lat='-4.21556' lon='28.67892333'>
+    <tag k='households' v='90' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tubanga' />
+    <tag k='place' v='village' />
+    <tag k='population' v='300' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33195' lat='-4.266866667' lon='28.87651333'>
+    <tag k='alt_name' v='Bashiekombe' />
+    <tag k='households' v='170' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Hondukuma' />
+    <tag k='place' v='village' />
+    <tag k='population' v='600' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33196' lat='-4.148713333' lon='28.73662667'>
+    <tag k='households' v='500' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasiru' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1700' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33197' lat='-4.274301667' lon='28.87151667'>
+    <tag k='households' v='120' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Abengwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33198' lat='-4.262441667' lon='28.88108333'>
+    <tag k='alt_name' v='Bakyembe' />
+    <tag k='households' v='150' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kalimwema' />
+    <tag k='place' v='village' />
+    <tag k='population' v='400' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33199' lat='-4.282148333' lon='28.86789167'>
+    <tag k='households' v='73' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Nalubwe' />
+    <tag k='place' v='village' />
+    <tag k='population' v='329' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33200' lat='-4.287071667' lon='28.86062167'>
+    <tag k='alt_name' v='Bashilolende' />
+    <tag k='households' v='60' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tubanga 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='253' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33201' lat='-4.291695' lon='28.857765'>
+    <tag k='households' v='89' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Tubanga 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='275' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33202' lat='-4.30127' lon='28.84166667'>
+    <tag k='households' v='220' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasakwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='700' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33203' lat='-4.30167' lon='28.84874667'>
+    <tag k='alt_name' v='Bashinondo' />
+    <tag k='households' v='50' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mpanda 1' />
+    <tag k='place' v='village' />
+    <tag k='population' v='400' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33204' lat='-4.261501667' lon='28.88485333'>
+    <tag k='alt_name' v='Lulingi 1' />
+    <tag k='households' v='230' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Misufi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1200' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33205' lat='-4.300201667' lon='28.85114833'>
+    <tag k='households' v='135' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mpanda 2' />
+    <tag k='place' v='village' />
+    <tag k='population' v='974' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33206' lat='-4.297695' lon='28.85151'>
+    <tag k='alt_name' v='Avenue' />
+    <tag k='households' v='35' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Bamboko' />
+    <tag k='place' v='village' />
+    <tag k='population' v='99' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33207' lat='-4.259763333' lon='28.89657167'>
+    <tag k='alt_name' v='Lulingi 2' />
+    <tag k='households' v='10' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Basango' />
+    <tag k='place' v='village' />
+    <tag k='population' v='30' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33208' lat='-4.248598333' lon='28.907685'>
+    <tag k='alt_name' v='Mwabombwe' />
+    <tag k='households' v='16' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Mujimwema' />
+    <tag k='place' v='village' />
+    <tag k='population' v='41' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33209' lat='-4.30102' lon='28.83671667'>
+    <tag k='households' v='281' />
+    <tag k='is_in:health_area' v='Umoja' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasakwa' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1144' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33210' lat='-4.751361667' lon='29.10292333'>
+    <tag k='households' v='250' />
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kizozi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1500' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33211' lat='-4.776905' lon='29.10030333'>
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Atuma' />
+    <tag k='place' v='village' />
+    <tag k='population' v='103' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33212' lat='-4.795105' lon='29.09689'>
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kibamba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='3000' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33213' lat='-4.835683333' lon='29.101995'>
+    <tag k='households' v='5' />
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Msamba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='30' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33214' lat='-4.845515' lon='29.10395333'>
+    <tag k='alt_name' v='Iyongo' />
+    <tag k='households' v='344' />
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Yungu' />
+    <tag k='place' v='village' />
+    <tag k='population' v='2066' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33215' lat='-4.81371' lon='29.10327'>
+    <tag k='households' v='185' />
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kihingizi' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1110' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+  <node id='-33216' lat='-4.819151667' lon='29.10445'>
+    <tag k='households' v='183' />
+    <tag k='is_in:health_area' v='Yungu' />
+    <tag k='is_in:health_zone' v='Fizi' />
+    <tag k='name' v='Kasaba' />
+    <tag k='place' v='village' />
+    <tag k='population' v='1100' />
+    <tag k='source' v='MSFsurvey' />
+    <tag k='source:date' v='2017-07' />
+  </node>
+</osm>
