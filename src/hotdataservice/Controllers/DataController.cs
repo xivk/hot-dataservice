@@ -43,6 +43,7 @@ namespace hotdataservice.Controllers
                     true);
 
                 var target = new XmlOsmStreamTarget(resultStream);
+                target.ExtraRootAttributes.Add(new System.Tuple<string, string>("upload", "never"));
                 target.RegisterSource(filter);
                 target.Pull();
 
