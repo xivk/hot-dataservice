@@ -23,7 +23,7 @@ jobs:
       run: dotnet test --no-build --verbosity normal
 
     - name: Login to Docker Hub
-      run: echo ${{ secrets.DOCKER_HUB_TOKEN }} | docker login -u anywaysbot --password-stdin
+      run: echo ${{ secrets.DOCKER_HUB_TOKEN }} | docker login -u xivk --password-stdin
 
     - name: Publish
       run: dotnet publish -c release
